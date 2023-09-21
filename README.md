@@ -20,12 +20,13 @@ The goal is to reach the princess in as few moves as possible.
 The above sample input is just to help you understand the format.
 The princess ('p') can be in any one of the four corners.
 
-Sample Input
+Sample Input and Output:
+Input:
 3
 ---
 -m-
 p--
 
-Sample Output
+Output:
 DOWN
 LEFT
